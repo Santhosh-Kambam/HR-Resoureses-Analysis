@@ -31,7 +31,7 @@ plt.show()
 
 <img width="796" height="590" alt="Screenshot 2025-08-11 225033" src="https://github.com/user-attachments/assets/2c857ffc-c009-4898-a4f0-ec52266aa184" />
 
-*Departments are composed of a healthy blend of fresh talent and seasoned professionals, ensuring dynamic collaboration.*
+*The average age of employees is consistent across departments, ranging from approximately 34 to 38 years. This indicates a well-balanced mix of experienced and early-career professionals throughout the organization.*
 
 ---
 
@@ -55,7 +55,7 @@ plt.show()
 
 <img width="490" height="502" alt="Screenshot 2025-08-11 225129" src="https://github.com/user-attachments/assets/df017ede-cb0d-4af9-8c66-993a6e05801f" />
 
-*The majority of employees demonstrate strong loyalty, with attrition well below critical thresholds.*
+*The overall attrition rate is 16.1%, indicating that the majority of the workforce is retained. This stable rate suggests that proactive HR strategies could be highly effective in reducing turnover further..*
 
 ---
 
@@ -79,7 +79,7 @@ plt.show()
 
 <img width="1482" height="612" alt="Screenshot 2025-08-11 225221" src="https://github.com/user-attachments/assets/22568542-d2c8-47de-8b92-34e064d5fb94" />
 
-*The workforce spans a broad range of roles, supporting organizational agility and innovation.*
+*The workforce is concentrated in Sales Executive, Research Scientist, and Laboratory Technician roles. This distribution reflects the core business operations and key areas of staffing focus within the company.*
 
 ---
 
@@ -103,7 +103,7 @@ plt.show()
 
 <img width="1486" height="604" alt="Screenshot 2025-08-11 225310" src="https://github.com/user-attachments/assets/bc86ac3d-ee34-4c34-b686-2dbd615f61e0" />
 
-*Salary structures are closely aligned with job responsibilities, rewarding expertise and leadership.*
+*Compensation is clearly aligned with responsibility, with Managers and Research Directors earning the highest average monthly incomes. This structured salary model rewards expertise and leadership.*
 
 ---
 
@@ -128,7 +128,7 @@ plt.show()
 
 <img width="606" height="622" alt="Screenshot 2025-08-11 225428" src="https://github.com/user-attachments/assets/eb3dc092-bb38-4272-8cde-ef48d5913527" />
 
-*A significant portion of employees contribute extra hours, highlighting dedication but signaling a need for balance.*
+*A significant portion of the workforce—28.3%—works overtime. This high percentage highlights employee dedication but also signals a potential risk for burnout and is a key factor to address in retention strategies.*
 
 ---
 
@@ -147,7 +147,7 @@ plt.show()
 
 <img width="976" height="593" alt="Screenshot 2025-08-11 225513" src="https://github.com/user-attachments/assets/6578d94a-fd92-4d44-9702-02ba7d13f349" />
 
-*Job satisfaction patterns suggest that personal circumstances influence engagement and fulfillment at work.*
+*The data reveals that job satisfaction levels are relatively high across all marital statuses, with Married and Single employees showing the highest concentrations of "Very High" satisfaction. This indicates that while personal circumstances may influence work fulfillment, overall morale is strong.*
 
 ---
 
@@ -172,7 +172,7 @@ plt.show()
 
 <img width="586" height="608" alt="Screenshot 2025-08-11 225602" src="https://github.com/user-attachments/assets/68d99c0e-4cd7-4bc7-94d9-684ddebd0ec4" />
 
-*Employee retention correlates strongly with tenure, underscoring the value of long-term engagement.*
+*Employees who left the company had an average tenure of 5.1 years, while those who remained stayed for an average of 7.2 years. This underscores that long-term employee retention is a key driver of workforce stability.*
 
 ---
 
@@ -195,7 +195,7 @@ plt.show()
 
 <img width="1233" height="732" alt="Screenshot 2025-08-11 225651" src="https://github.com/user-attachments/assets/5a7df077-c6b7-42c3-88bb-426d8a184a51" />
 
-*Higher education levels are consistently rewarded with superior daily rates, reflecting organizational investment in expertise.*
+*Employees in Life Sciences and Medical fields have the highest average daily rates. This suggests that the company places a high value on specialized knowledge from these educational backgrounds.*
 
 ---
 
@@ -208,7 +208,7 @@ performancerating_by_dept
 
 <img width="435" height="143" alt="Screenshot 2025-08-11 225737" src="https://github.com/user-attachments/assets/4bc6de5b-29a2-4f8e-85b5-a68ee897f5ed" />
 
-*Departments consistently nurture high performance, driving strong results across the organization.*
+*Performance ratings are consistently strong across all departments, with average scores between 3.1 and 3.2. This indicates a high-achieving workforce and a successful performance management system.*
 
 ---
 
@@ -232,7 +232,7 @@ plt.show()
 
 <img width="1235" height="733" alt="Screenshot 2025-08-11 225835" src="https://github.com/user-attachments/assets/76beb6d2-6f40-4681-9383-5398a0e2d9db" />
 
-*A well-balanced educational mix fuels the company’s adaptability and knowledge base.*
+*The majority of employees have a bachelor's degree (Education Level 3), followed by master's and high school levels. This diverse educational mix provides a broad skill base for the organization.*
 
 ---
 
